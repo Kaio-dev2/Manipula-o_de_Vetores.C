@@ -11,27 +11,21 @@ Opção
 Descrição
 
 UM
-
 Cadastrar um novo número no vetor (se houver espaço disponível).
 
 B
-
 Ônibus
 
 C
-
 Excluir um número do vetor, deslocando os elementos restantes.
 
 D
-
 Listar todos os números cadastrados.
 
 E
-
 Calcular e exibir a soma de todos os números cadastrados.
 
 F
-
 Sair do sistema (apenas após listar os números com a opção D).
 
 Validações Integradas : Verifique se o vetor está vazio ou cheio, evitando operações inválidas.
